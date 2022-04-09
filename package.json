@@ -24,7 +24,7 @@
     "copy-webpack-plugin": "^6.0.3",
     "cross-env": "^7.0.2",
     "html-webpack-plugin": "^4.3.0",
-    "moment": "^2.23.0",
+    "moment": "^2.29.2",
     "ts-loader": "^7.0.5",
     "tslint": "^6.1.2"
   }
